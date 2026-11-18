@@ -1,0 +1,14 @@
+apple
+tiger
+carrot
+lion
+banana
+potato
+elephant
+mango
+tomato
+rabbit
+tiger
+lion
+monkey
+cherry
